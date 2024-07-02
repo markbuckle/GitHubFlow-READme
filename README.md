@@ -1,4 +1,4 @@
-# hello-world2
+# Hello GitHub
 This repository is for practising the GitHub Flow.
 
 # test-area-2
